@@ -3,6 +3,8 @@
 # # g = "1 2 3 4 5 "
 # # i = "! @ # "
 
+# It's first approach.
+
 # # a = z.split()
 # # b = d.split()
 # # c = g.split()
@@ -38,6 +40,8 @@
 # # else:
 # #     print("it should be of 8 letters")
 
+
+# It's second approach.
 
 # d = "@ # $"
 # e = d.split()
